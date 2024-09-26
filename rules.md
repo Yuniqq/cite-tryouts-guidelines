@@ -49,6 +49,10 @@
 12. **Betting and Match-Fixing**
     - Any form of **betting or match-fixing** is strictly prohibited and will result in **immediate disqualification**.
 
+13. **Waiting time for Next Match**
+    - After the completion of a match, the next participating teams are given a 5-minute waiting period before their game begins. 
+      This ensures sufficient time for rest and preparation before the next match.
+
 ---
 
 # Mobile Legends Tryouts: Rules Primer
