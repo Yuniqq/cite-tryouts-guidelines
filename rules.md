@@ -120,3 +120,166 @@
 7. **Game Remake Rules**
    - In case of a game remake, the same players must pick the **same agents** as in the original game.
    - Failure to do so will result in an **immediate default loss**.
+
+# CODM: Tryouts Rules Primer
+
+## 1. ON GAME SET-UP
+
+The following game settings shall be followed for all matches:
+
+- **Type**: Multiplayer
+- **Team Size**: 5-versus-5
+- **Game Mode**:
+  - Hardpoint
+  - Search and Destroy
+  - Controls
+
+## 2. ON GAME MAPS
+
+The following game maps will be used throughout the event:
+
+- **Hardpoint Map Pool**:
+  - Summit
+  - Takeoff
+  - Hacienda
+  - Hackney Yard
+  - Apocalypse
+
+- **Search and Destroy Map Pool**:
+  - Kurohana Metropolis
+  - Firing Range
+  - Express
+  - Takeoff
+  - Tunisia
+
+- **Controls Map Pool**:
+  - Raid
+  - Seaside
+  - Arsenal
+
+## 3. ON LOADOUT RESTRICTIONS
+
+### Device Restrictions:
+- Emulators
+- Controllers
+
+### Weapon Restrictions:
+- NA-45
+- SVD
+- XPR
+- Thumper
+- SKS
+- Shorty
+- SMRS
+- FHJ-18
+- Argus
+
+### Operator Skill Restrictions:
+- Transform Shield
+- H.I.V.E.
+- Shadow Blade
+- Bull Charge
+- Ballistic Shield
+- K9 Unit
+- Kinetic Armor
+- TAK-5
+- Reactor Core
+- Ballista EM3
+- Tac Deploy
+- Misdirection Device
+
+### Lethal and Tactical Utility Restrictions:
+- Trip Mine
+- Thermite
+- Molotov Cocktail
+- Contact Grenade
+- C4
+- Cluster Grenade
+- Heartbeat Sensor
+- Gas Grenades
+- Flash Drone
+- Echo Grenade
+- Stim Shot
+- Cryo Bomb
+- Storm Ball
+- Decoy Grenade
+- Trip Sensor
+
+### Perk Restrictions:
+- Persistence
+- Restock
+- Martyrdom
+- Quick Fix
+- Hardline
+- Alert
+- High Alert
+- Tracker
+- Recon
+- Pinpoint
+- Unit Support
+- Tactician
+- Akimbo
+
+### Weapon Perk Restrictions:
+- RPD Infinite Ammo
+- DLQ Concussion Ammo
+- All Shotgun Slug Ammo
+- Thermite and Gas Grenade Bolts
+- AS VAL 15 Round FMG Mag
+- CRMX M67 Ammo
+- HS0405 Thunder Rounds
+- M4 Underbarrel Launcher
+- Hades Heartseeker
+- HVK Large Caliber Mag
+- DRH OTMMag
+- Rytec Thermite & Explosive Ammo
+- CX99mm Hollow Point Rounds
+- Type 19 Hi-Accuracy Sniper Ammo
+- Man-O-War Thermite Ammo
+- MG42 KRAUSNICK 355MM Rapid
+- MG42 6.5 ARISAKA 125 Round Drums
+- MG42 Recoil Booster
+
+### Scorestreak Restrictions:
+- UAV
+- Advanced UAV
+- Counter-UAV
+- Care Package
+- Shield Turret
+- SAM Turret
+- Stealth Chopper
+- Shock RC
+- VTOL
+- Hawk X3
+- Swarm
+- Lightning Strike
+- Orbital Laser
+- Sentry Gun
+- Chopper Gunner
+- Napalm
+- Cluster Strike
+- MQ-27 Dragonfire
+- XS1 Goliath
+- Weelson
+- Guardian
+- Gunship
+- RC-XD
+
+### Utility Skins Restrictions:
+- All lethal and tactical utility skins are restricted throughout the event.
+
+## 4. ON LOBBY SETTINGS
+
+The following settings will be applied throughout the event:
+
+- **Hardpoint**:
+  - Round Score Limit: 250
+  - Round Time Limit: 600 seconds
+
+- **Search and Destroy**:
+  - Round Win Limit: 7 Rounds
+  - Time Limit: 120 seconds
+
+- **Controls**:
+  - Round Score Limit: 3
+  - Round Time Limit: 90 seconds
