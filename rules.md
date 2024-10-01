@@ -112,7 +112,7 @@
 
 6. **Tournament Configuration**
    - **Tournament mode**: On
-   - **Allow cheats**: On
+   - **Allow cheats**: Off
    - **Play out all rounds**: Off
    - **Overtime (Win by two)**: On
    - **Hide match history**: Off
